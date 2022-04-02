@@ -1,0 +1,42 @@
+.carousel-item{
+    height: 500px;
+}
+#asap{
+    width: 400px;
+    height:400px;
+margin:2%;
+    border-radius: 25%;
+}
+#sss{
+    padding-top: 5%;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.container{
+    margin-top:2cm ;
+}
+.container:hover{
+    font-size: 1.2rem;
+   color:brown;
+
+   
+}
+
+
+.container img{
+
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+    border: 2px solid black;
+
+}
+.footer{
+    background-color: darkgray;
+    margin: 5%;
+    color:solid black;
+    size: 1cm;
+    text-align: center;
+}
+
